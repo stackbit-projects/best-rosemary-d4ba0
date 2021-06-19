@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Geelong Wolves Hospital
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We are a Clinic dedicated to the care of wolves in Geelong
     actions:
       - label: Learn More
         url: /features
