@@ -14,7 +14,7 @@ sections:
     align: left
     image_alt: Hero placeholder image
     image_position: right
-    has_background: true
+    has_background: false
     background:
       background_color: blue
       background_image: /images/miles-tone.jpg
