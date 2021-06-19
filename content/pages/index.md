@@ -18,7 +18,7 @@ sections:
     background:
       background_color: gray
       background_image: /images/miles-tone.jpg
-      background_image_opacity: 100
+      background_image_opacity: 50
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
